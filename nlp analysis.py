@@ -6,7 +6,12 @@ Created on Tue Jun  5 15:07:24 2018
 """
 
 # Planning text analysis
-
+"""
+This is a broken version that performed well due to oversampling before 
+train/test split
+comments
+comments
+"""
 
 import nltk
 import pandas as pd
